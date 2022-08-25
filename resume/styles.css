@@ -1,0 +1,54 @@
+.main-heading{
+  font-size: 25px;
+  text-decoration: underline;
+  text-align: center;
+}
+h1{
+  text-align:center;
+  font-size:25px;
+  text-decoration:underline;
+}
+p{
+  font-size:20px;
+  font-weight:500;
+}
+.photo-sec{
+  padding-top: 15px;
+  padding-left: 15px;
+border-width:2px;
+border-style: solid;
+height: 80px;
+width:90px
+
+}
+.photo-container{
+margin-left: 1200px;
+text-align:left;
+
+}
+.sub-heading{
+  font-size: 25px;
+  text-decoration: underline;
+
+}
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+.order-list{
+  font-weight: 600;
+}
+.ul-item{
+  font-weight: 600;
+}
+.ul-item2{
+  font-weight: 600;
+  list-style:circle;
+}
+.footer-sec{
+  text-align: right;
+
+}
+.footer-description{
+    font-size: 26px
+}
